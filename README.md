@@ -1,5 +1,4 @@
 STEPS TO RUN THE CODE:
-
 Go to https://openweathermap.org
 Create a free account
 Navigate to the API keys section
